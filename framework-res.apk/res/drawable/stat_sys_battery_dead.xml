@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="0">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_0" />
+            <item android:duration="1000" android:drawable="@drawable/zzz_null" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="5">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_0" />
+            <item android:duration="1000" android:drawable="@drawable/zzz_null" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="20">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_0" />
+            <item android:duration="1000" android:drawable="@drawable/zzz_null" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="35">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_0" />
+            <item android:duration="1000" android:drawable="@drawable/zzz_null" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="50">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_0" />
+            <item android:duration="1000" android:drawable="@drawable/zzz_null" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="65">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_0" />
+            <item android:duration="1000" android:drawable="@drawable/zzz_null" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="80">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_0" />
+            <item android:duration="1000" android:drawable="@drawable/zzz_null" />
+        </animation-list>
+    </item>
+    <item android:maxLevel="100">
+        <animation-list android:oneshot="false"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:duration="1000" android:drawable="@drawable/stat_sys_battery_0" />
+            <item android:duration="1000" android:drawable="@drawable/zzz_null" />
+        </animation-list>
+    </item>
+</level-list>
